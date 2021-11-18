@@ -10,3 +10,9 @@ This Github is structured into two types of repos. Public repos operate as expec
 
 ### BRP Leads Automator  
 * Project 'Burp' is a software solution to quickly mark and respond to Bossweb Leads for (BRP, Can Am, and Sea Doo). This is important to dealers since points are awarded each quarter based on the time a dealership took to respond to a lead. This tool automates the lead response process and enables dealers to focus on customer satisfaction and product delivery. This program is written in NodeJs and runs on Linux, Windows, MacOS. Additional information is included upon access. 
+
+### Social Media and Contact Links
+* [email](mailto:admin@qrsnap.io)
+* [qrsnap.io](https://qrsnap.io)
+* [twitter](https://twitter.com/russeree)
+* Facebook - Request Access
