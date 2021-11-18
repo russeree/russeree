@@ -16,3 +16,4 @@ This Github is structured into two types of repos. Public repos operate as expec
 * [qrsnap.io](https://qrsnap.io)
 * [twitter](https://twitter.com/russeree)
 * Facebook - Request Access
+* [bitcoin - BC1Q6JK0AJ7JKSN5TVRLG7UMPCYNX0SNHTVAQWSZEQ](bitcoin:BC1Q6JK0AJ7JKSN5TVRLG7UMPCYNX0SNHTVAQWSZEQ) 
