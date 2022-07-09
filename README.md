@@ -1,7 +1,7 @@
 ## Russeree - Automation and Projects Mecca ⚡
 
 ### ABOUT ME
-Founder of QR SNAP LLC a QR Code redirection service with an emphasis on analytics. Non-toxic Bitcoin Maximalist since 2013.
+Founder of QR SNAP LLC a QR Code redirection service with an emphasis on analytics. Non-toxic Bitcoin Maximalist since 2013
 
 ### Github Structure
 This Github is structured into two types of repos. Public repos operate as expected. Feel free to clone, modify, and fork as you wish according to license agreements in their respective license.txt file. Where things get quite fun is in the private repositories. These repos are accessed through an email request to [admin@qrsnap.io](mailto:admin@qrsnap.io)
@@ -14,5 +14,5 @@ This Github is structured into two types of repos. Public repos operate as expec
 ### Social Media and Contact Links
 * [email](mailto:admin@qrsnap.io)
 * [qrsnap.io](https://qrsnap.io)
-* [twitter](https://twitter.com/russeree)
+* [twitter](https://twitter.com/PortlandHodl)
 * bitcoin - BC1Q6JK0AJ7JKSN5TVRLG7UMPCYNX0SNHTVAQWSZEQ
