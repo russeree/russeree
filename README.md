@@ -1,15 +1,18 @@
 ## Russeree - Automation and Projects Mecca ⚡
 
 ### ABOUT ME
-Founder of QR Snap, llc a QR Code redirection service with an emphasis on analytics. Non-toxic Bitcoin Maximalist since 2013
+Non-toxic Bitcoin Maximalist since 2013, Founder of QR Snap, llc a QR Code redirection service with an emphasis on analytics. 
 
-### Github Structure
-This Github is structured into two types of repos. Public repos operate as expected. Feel free to clone, modify, and fork as you wish according to license agreements in their respective license.txt file. Where things get quite fun is in the private repositories. These repos are accessed through an email request to [admin@qrsnap.io](mailto:admin@qrsnap.io)
+### Nyans Keys - Project Icarus 
+Developed an FPGA based parallel keyboard subinterface allowing each key to be indexed in parallel. In addition to a high degree of flexibility
+using an FPGA has allowed for sub milisecond latency with low debounce time switches. The user can use lower performance switches such as Cherry MX Blues (5ms debounce) and will be able to acheive the lowest possible latency with those switches.
 
-## Private Repo Desciptions
+Nyan Keys has 3 Primary Components
+ - [FGPA Bitstream](https://github.com/russeree/nyan-keys-ice40hx4k-bitstream)
+ - [STM32 Firmware](https://github.com/russeree/nyan-keys-stm32-firmware)
+ - PCB Schematic and Layout
 
-### BRP Leads Automator  
-* Project 'Burp' is a software solution to quickly mark and respond to Bossweb Leads for (BRP, Can Am, and Sea Doo). This is important to dealers since points are awarded each quarter based on the time a dealership took to respond to a lead. This tool automates the lead response process and enables dealers to focus on customer satisfaction and product delivery. This program is written in NodeJs and runs on Linux, Windows, MacOS. Additional information is included upon access.
+The performance of Nyan Keys when configured with Cherry MX2A ([sub 1ms bounce time](https://www.cherry-world.com/company/press/article/cherry-mx2a-exceeding-expectations)) can exceed that of the Wooting with true sub 1ms latency. 
 
 ### Social Media and Contact Links
 * [email](mailto:admin@qrsnap.io)
