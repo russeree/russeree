@@ -3,7 +3,7 @@
 ### ABOUT ME
 Non-toxic Bitcoin Maximalist since 2013, Founder of QR Snap, llc a QR Code redirection service with an emphasis on analytics. 
 
-### Nyans Keys - Project Icarus 
+### Nyans Keys
 Developed an FPGA based parallel keyboard subinterface allowing each key to be indexed in parallel. In addition to a high degree of flexibility
 using an FPGA has allowed for sub milisecond latency with low debounce time switches. The user can use lower performance switches such as Cherry MX Blues (5ms debounce) and will be able to acheive the lowest possible latency with those switches.
 
