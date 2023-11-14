@@ -4,7 +4,7 @@
 Non-toxic Bitcoin Maximalist since 2013, Founder of QR Snap, llc a QR Code redirection service with an emphasis on analytics. 
 
 ### Nyan Keys
-An FPGA based parallel keyboard subinterface allowing each key to be indexed in parallel. In addition to a high degree of flexibility
+An FPGA based mechanical keyboard designed for the lowest possible latency and programmability. The FPGA parallel subinterface allowing each key to be indexed in parallel. In addition to a high degree of flexibility
 using an FPGA has allowed for sub milisecond latency with low debounce time switches. Lower performance switches such as Cherry MX Blues (5ms debounce) can be used and still acheive the lowest possible latency for that switch.
 
 Nyan Keys has 4 Primary Components
