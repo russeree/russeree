@@ -14,6 +14,7 @@ Nyan Keys has 4 Primary Components
  - [PCB Schematic and Layout](https://github.com/russeree/nyan-keys-hardware)
 
 The performance of Nyan Keys when configured with Cherry MX2A ([sub 1ms bounce time](https://www.cherry-world.com/company/press/article/cherry-mx2a-exceeding-expectations)) can exceed that of the Wooting with true sub 1ms latency. 
+ - [Original Reddit Post](https://www.reddit.com/r/FPGA/comments/17rt1rc/a_little_side_project_of_mine_fpga_based)
 
 ### Social Media and Contact Links
 * [email](mailto:admin@qrsnap.io)
