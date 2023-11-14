@@ -1,7 +1,7 @@
 ## Russeree - Automation and Projects Mecca ⚡
 
 ### ABOUT ME
-Non-toxic Bitcoin Maximalist since 2013, Founder of QR Snap, llc a QR Code redirection service with an emphasis on analytics. 
+BitCoin maximalist and Bitcoin Core contributor, Creator of Nyan Keys, and Founder of QR Snap LLC, a QR Code redirection service with an emphasis on analytics. 
 
 ### Nyan Keys
 An FPGA based mechanical keyboard designed for the lowest possible latency and programmability. The FPGA parallel subinterface allowing each key to be indexed in parallel. In addition to a high degree of flexibility
