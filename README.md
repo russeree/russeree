@@ -1,4 +1,4 @@
-## Russeree - Automation and Projects Mecca ⚡
+## Russeree - Bitcoin and Nyan Keys ⚡
 
 ### ABOUT ME
 BitCoin maximalist and Bitcoin Core contributor, Creator of Nyan Keys, and Founder of QR Snap LLC, a QR Code redirection service with an emphasis on analytics. 
