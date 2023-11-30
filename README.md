@@ -5,7 +5,7 @@ BitCoin maximalist and Bitcoin Core contributor, Creator of Nyan Keys, and Found
 
 ### Nyan Keys - FPGA USB2.0 HS Mechancial Keybaord
 <div align="left">
- <img src="https://github.com/russeree/nyan-keys-stm32-firmware/raw/master/assets/images/icon_square.png" width="120" height="120">
+ <img src="https://github.com/russeree/nyan-keys-stm32-firmware/raw/master/assets/images/icon_square.png" width="60" height="60">
 </div>
 
 An FPGA based mechanical keyboard designed for the lowest possible latency and programmability. The FPGA parallel subinterface allowing each key to be indexed in parallel. In addition to a high degree of flexibility using an FPGA has allowed for sub milisecond latency with low debounce time switches. Lower performance switches such as Cherry MX Blues (5ms debounce) can be used and still acheive the lowest possible latency for that switch.
