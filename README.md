@@ -3,6 +3,7 @@
 ### ABOUT ME
 BitCoin maximalist and Bitcoin Core contributor, Creator of Nyan Keys, and Founder of QR Snap LLC, a QR Code redirection service with an emphasis on analytics. 
 
+### Projects
 <div align="left">
  <img src="https://github.com/russeree/nyan-keys-stm32-firmware/raw/master/assets/images/icon_square.png" width="60" height="60">
 </div>
