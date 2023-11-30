@@ -22,4 +22,3 @@ The performance of Nyan Keys when configured with Cherry MX2A ([sub 1ms bounce t
 * [email](mailto:admin@qrsnap.io)
 * [qrsnap.io](https://qrsnap.io)
 * [twitter](https://twitter.com/PortlandHodl)
-* bitcoin - BC1Q6JK0AJ7JKSN5TVRLG7UMPCYNX0SNHTVAQWSZEQ
