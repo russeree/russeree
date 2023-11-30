@@ -3,11 +3,11 @@
 ### ABOUT ME
 BitCoin maximalist and Bitcoin Core contributor, Creator of Nyan Keys, and Founder of QR Snap LLC, a QR Code redirection service with an emphasis on analytics. 
 
-### Nyan Keys - FPGA USB2.0 HS Mechancial Keybaord
 <div align="left">
  <img src="https://github.com/russeree/nyan-keys-stm32-firmware/raw/master/assets/images/icon_square.png" width="60" height="60">
 </div>
 
+### Nyan Keys - FPGA USB2.0 HS Mechancial Keybaord
 An FPGA based mechanical keyboard designed for the lowest possible latency and programmability. The FPGA parallel subinterface allowing each key to be indexed in parallel. In addition to a high degree of flexibility using an FPGA has allowed for sub milisecond latency with low debounce time switches. Lower performance switches such as Cherry MX Blues (5ms debounce) can be used and still acheive the lowest possible latency for that switch.
 
 This is the first true USB2.0 High Speed __NOT FULL SPEED__ keyboard to exist as such native 8000HZ polling rates occour without the need for drivers. The USB 2.0 High Speed spec also allows for up to 1024 bytes with each poll. As such the full NKRO set can be sent 8000 times a second. The report is not broken up into sections with each section being sent per interrupt. 
