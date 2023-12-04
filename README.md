@@ -16,8 +16,8 @@ This is the first true USB2.0 High Speed __NOT FULL SPEED__ keyboard to exist as
 Nyan Keys has 4 Primary Components
  - [FGPA Bitstream](https://github.com/russeree/nyan-keys-ice40hx4k-bitstream)
  - [Nyan OS (NOS) - STM32 Firmware](https://github.com/russeree/nyan-keys-stm32-firmware)
- - [Web Serial API GUI - hosted](https://russeree.github.io/)
- - [Web Serial API GUI - Source](https://github.com/russeree/nyan-keys-gui)
+ - [Nyan OS Config Tool - Hosted](https://russeree.github.io/)
+ - [Nyan OS Config Tool - Source](https://github.com/russeree/nyan-keys-gui)
  - [PCB Schematic and Layout](https://github.com/russeree/nyan-keys-hardware)
 
 The performance of Nyan Keys when configured with Cherry MX2A ([sub 1ms bounce time](https://www.cherry-world.com/company/press/article/cherry-mx2a-exceeding-expectations)) can exceed that of the Wooting with true sub 1ms latency. 
