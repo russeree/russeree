@@ -15,7 +15,7 @@ This is the first true USB2.0 High Speed __NOT FULL SPEED__ keyboard to exist as
 
 Nyan Keys has 4 Primary Components
  - [FGPA Bitstream](https://github.com/russeree/nyan-keys-ice40hx4k-bitstream)
- - [STM32 Firmware](https://github.com/russeree/nyan-keys-stm32-firmware)
+ - [Nyan OS (NOS) - STM32 Firmware](https://github.com/russeree/nyan-keys-stm32-firmware)
  - [Web Serial API GUI - hosted](https://russeree.github.io/)
  - [Web Serial API GUI - Source](https://github.com/russeree/nyan-keys-gui)
  - [PCB Schematic and Layout](https://github.com/russeree/nyan-keys-hardware)
