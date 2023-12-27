@@ -18,7 +18,7 @@ Nyan Keys has 4 Primary Components
  - [Nyan OS (NOS) - STM32 Firmware](https://github.com/russeree/nyan-keys-stm32-firmware)
  - [Nyan OS Web Config Tool - Hosted](https://russeree.github.io/)
  - [Nyan OS Web Config Tool - Source Code](https://github.com/russeree/nyan-keys-gui)
- - [PCB Schematic and Layout](https://github.com/russeree/nyan-keys-hardware)
+ - [Hardware Design Files](https://github.com/russeree/nyan-keys-hardware)
 
 The performance of Nyan Keys when configured with Cherry MX2A ([sub 1ms bounce time](https://www.cherry-world.com/company/press/article/cherry-mx2a-exceeding-expectations)) can exceed that of the Wooting with true sub 1ms latency. 
  - [Original Reddit Post](https://www.reddit.com/r/FPGA/comments/17rt1rc/a_little_side_project_of_mine_fpga_based)
