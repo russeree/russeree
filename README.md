@@ -1,4 +1,4 @@
-## Portlane.HODL - Bitcoin and Nyan Keys ⚡
+## Portland.HODL - Bitcoin and Nyan Keys ⚡
 
 ### About me 👋
 BitCoin maximalist and Bitcoin Core contributor, Creator of Nyan Keys, and Founder of QR Snap LLC, a QR Code redirection service with an emphasis on analytics. 
