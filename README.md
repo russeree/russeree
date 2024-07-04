@@ -1,7 +1,7 @@
 ## Portland.HODL - Bitcoin and Nyan Keys ⚡
 
 ### About me 👋
-BitCoin maximalist and Bitcoin Core contributor, Creator of Nyan Keys, and Founder of QR Snap LLC, a QR Code redirection service with an emphasis on analytics. 
+Bitcoin maximalist and Bitcoin Core contributor, Creator of Nyan Keys, and Founder of QR Snap LLC, a QR Code redirection service with an emphasis on analytics.
 
 ### Projects 💻
 <div align="left">
@@ -28,3 +28,6 @@ The performance of Nyan Keys when configured with Cherry MX2A ([sub 1ms bounce t
 * [email](mailto:admin@qrsnap.io)
 * [qrsnap.io](https://qrsnap.io)
 * [twitter](https://twitter.com/PortlandHodl)
+
+### social Notes
+My respect comes from merit, not circumstance. Titles, ranks, words, etc ... carry no weight.
